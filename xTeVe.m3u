@@ -1,21 +1,113 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/dqr6ywperma94xj3nx1w"
-#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="BeIN Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s90470_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 1
+#EXTINF:-1 tvg-id="ATNBangla.us" tvg-name="ATN Bangla" tvg-logo="" group-title="BANGLA",ATN Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ATNBanglaUK.uk" tvg-name="ATN Bangla UK" tvg-logo="" group-title="BANGLA",ATN Bangla UK
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BanglaVision.us" tvg-name="Bangla Vision" tvg-logo="" group-title="BANGLA",Bangla Vision
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="" group-title="BANGLA",Bijoy TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="" group-title="BANGLA",Boishakhi TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV World" tvg-logo="" group-title="BANGLA",BTV World
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelIUSA.us" tvg-name="Channel i" tvg-logo="" group-title="BANGLA",Channel i
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DesheBideshe TV" tvg-logo="" group-title="BANGLA",DesheBideshe TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="IQRABANGLA.uk" tvg-name="Iqra Bangla" tvg-logo="" group-title="BANGLA",Iqra Bangla
+https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JonmoBhumi TV" tvg-logo="" group-title="BANGLA",JonmoBhumi TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.uk" tvg-name="NTV Europe" tvg-logo="" group-title="BANGLA",NTV Europe
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="" group-title="BANGLA",RTV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SA TV" tvg-logo="" group-title="BANGLA",SA TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC America" tvg-logo="" group-title="ENTERTAINMENT",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="" group-title="ENTERTAINMENT",BET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ca670f6593a5d78f0e85aed&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=174&terminate=false&userId=
+#EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network East" tvg-logo="" group-title="ENTERTAINMENT",Cartoon Network East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="GustoTV.uk" tvg-name="Gusto" tvg-logo="" group-title="ENTERTAINMENT",Gusto
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="" group-title="ENTERTAINMENT",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV 4K" tvg-logo="" group-title="ENTERTAINMENT",NASA TV 4K
+https://endpnt.com/hls/nasa4k60/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Space Channel" tvg-logo="" group-title="ENTERTAINMENT",Space Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=565
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="" group-title="ENTERTAINMENT",TNT East
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="TNT(Pacific).us" tvg-name="TNT West" tvg-logo="" group-title="ENTERTAINMENT",TNT West
+https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CFEM(TVAChannel13)(French).ca" tvg-name="TVA" tvg-logo="" group-title="ENTERTAINMENT",TVA
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="" group-title="MUSIC",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Artist Aloud" tvg-logo="" group-title="MUSIC",Artist Aloud
+https://live.hungama.com/linear/artist-aloud/playlist.m3u8
+#EXTINF:-1 tvg-id="BoxHits(src01).uk" tvg-name="Box Hits" tvg-logo="" group-title="MUSIC",Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="" group-title="MUSIC",Gaan Bangla
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kadak Hits" tvg-logo="" group-title="MUSIC",Kadak Hits
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Nazrana" tvg-logo="" group-title="MUSIC",Nazrana
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera(Arabic).us" tvg-name="Al Jazeera AR" tvg-logo="" group-title="NEWS",Al Jazeera AR
+https://ythls.onrender.com/channel/UCfiwzLy-8yKzIbsmZTzxDgw.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish(English).ca" tvg-name="Al Jazeera EN" tvg-logo="" group-title="NEWS",Al Jazeera EN
+https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="" group-title="NEWS",Bloomberg TV
+https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
+#EXTINF:-1 tvg-id="Bloomberg.us" tvg-name="Bloomberg TV+ 4K" tvg-logo="" group-title="NEWS",Bloomberg TV+ 4K
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-name="CBC News" tvg-logo="" group-title="NEWS",CBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV News" tvg-logo="" group-title="NEWS",CTV News
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
+#EXTINF:-1 tvg-id="DW(English).ca" tvg-name="DW English" tvg-logo="" group-title="NEWS",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Independent TV" tvg-logo="" group-title="NEWS",Independent TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="" group-title="NEWS",Jamuna TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LeCanalNouvellesTVA(French).ca" tvg-name="LCN" tvg-logo="" group-title="NEWS",LCN
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.uk" tvg-name="NBC News Now" tvg-logo="" group-title="NEWS",NBC News Now
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Reuters" tvg-logo="" group-title="NEWS",Reuters
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="RT.us" tvg-name="RT News" tvg-logo="" group-title="NEWS",RT News
+https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy News TV" tvg-logo="" group-title="NEWS",Somoy News TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TD Ameritrade Network" tvg-logo="" group-title="NEWS",TD Ameritrade Network
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Yahoo! Finance" tvg-logo="" group-title="NEWS",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="beIN Sports 1" tvg-logo="" group-title="SPORTS",beIN Sports 1
 http://155.248.235.34:8080/memfs/97fb5f2c-4e35-4990-b00f-1ea2ac386e81.m3u8
-#EXTINF:-1 tvg-id="BeINSports2.fr" tvg-name="BeIN Sports 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s84037_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 2
+#EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="beIN Sports 2" tvg-logo="" group-title="SPORTS",beIN Sports 2
 http://155.248.235.34:8080/memfs/dddf2bb5-1887-4078-893f-2e793d7a69c8.m3u8
-#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="BeIN Sports 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87241_dark_360w_270h.png" group-title="FR" parent-code="PLEX",BeIN Sports 3
+#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="beIN Sports 3" tvg-logo="" group-title="SPORTS",beIN Sports 3
 http://155.248.235.34:8080/memfs/14f961e1-ac29-469d-af39-85270c2fe493.m3u8
-#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="beIN Sports Xtra" tvg-logo="" group-title="SPORTS",beIN Sports Xtra
+https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
+#EXTINF:-1 tvg-id="BTSport1.uk" tvg-name="BT Sports 1" tvg-logo="" group-title="SPORTS",BT Sports 1
 http://155.248.235.34:8080/memfs/ea506e6c-2013-4510-95d9-983d139f8ce0.m3u8
-#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82451_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 2
+#EXTINF:-1 tvg-id="BTSport2.uk" tvg-name="BT Sports 2" tvg-logo="" group-title="SPORTS",BT Sports 2
 http://155.248.235.34:8080/memfs/c36d56c4-36c9-4d8a-9a2a-728f21721d1f.m3u8
-#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sport 3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s95772_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 3
+#EXTINF:-1 tvg-id="BTSport3.uk" tvg-name="BT Sports 3" tvg-logo="" group-title="SPORTS",BT Sports 3
 http://155.248.235.34:8080/memfs/37203c43-fd09-48d3-ad5a-550453fd3be3.m3u8
-#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sport 4" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s64572_dark_360w_270h.png" group-title="UK" parent-code="UK",BT Sport 4
+#EXTINF:-1 tvg-id="BTSport4.uk" tvg-name="BT Sports 4" tvg-logo="" group-title="SPORTS",BT Sports 4
 http://155.248.235.34:8080/memfs/eda2611f-9801-47e2-83fa-e7ea5a6884eb.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="US" parent-code="US",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="" group-title="SPORTS",ESPN
 http://155.248.235.34:8080/memfs/4fcd7112-b9e2-4851-8f24-b538af45f75c.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="US" parent-code="US",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="" group-title="SPORTS",ESPN 2
 http://155.248.235.34:8080/memfs/31bcce44-c069-4164-9ae7-251a4b592809.m3u8
-#EXTINF:-1 tvg-id="fs1.us" tvg-name="Fox Sports 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="US" parent-code="US",Fox Sports 1
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="" group-title="SPORTS",FS1
 http://155.248.235.34:8080/memfs/6e61c4c4-5886-4be2-bcaf-2b3e32d043a8.m3u8
