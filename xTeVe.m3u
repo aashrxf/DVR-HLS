@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9gdvqb5qjrqyxr5"
-#EXTINF:-1 tvg-chno="101" tvg-id="(no tvg-id)" tvg-name="9XM" tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/9XM_Logo.png" group-title="IPTV",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1 tvg-id="WJLADT.us" tvg-name="ABC 7 Washington DC (WJLA)" tvg-logo="" group-title="IPTV",ABC 7 Washington DC (WJLA)
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="" group-title="IPTV",AMC East
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="AlJazeeraEnglish(English).ca" tvg-name="Al Jazeera EN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55559_dark_360w_270h.png" group-title="IPTV",Al Jazeera EN
 https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="(no tvg-id)" tvg-name="Artist Aloud" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="IPTV",Artist Aloud
@@ -19,14 +21,8 @@ http://155.248.235.34:8080/memfs/dddf2bb5-1887-4078-893f-2e793d7a69c8.m3u8
 http://155.248.235.34:8080/memfs/14f961e1-ac29-469d-af39-85270c2fe493.m3u8
 #EXTINF:-1 tvg-chno="110" tvg-id="(no tvg-id)" tvg-name="beIN Sports Xtra" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F895%2Fbein-sports-xtra-1.png" group-title="IPTV",beIN Sports Xtra
 https://dai.google.com/linear/hls/event/3e-9BOvHQrCI9hboMYjb6w/master.m3u8
-#EXTINF:-1 tvg-chno="111" tvg-id="(no tvg-id)" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/BIJOY_TV_Logo_BD.png/640px-BIJOY_TV_Logo_BD.png" group-title="IPTV",Bijoy TV
-http://155.248.235.34:8080/memfs/f613f419-7599-4d9d-abd7-0a20674a2afc.m3u8
 #EXTINF:-1 tvg-chno="112" tvg-id="Bloomberg.us" tvg-name="Bloomberg TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s71799_dark_360w_270h.png" group-title="IPTV",Bloomberg TV
 https://dai.google.com/linear/hls/event/NiumF4GTSGe-pXM-iMsP0A/master.m3u8
-#EXTINF:-1 tvg-chno="113" tvg-id="(no tvg-id)" tvg-name="Boishakhi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c7/Boishakhi_TV_logo.svg" group-title="IPTV",Boishakhi TV
-http://155.248.235.34:8080/memfs/9087c3e5-2df0-4f13-9b4c-c60bf6159c35.m3u8
-#EXTINF:-1 tvg-chno="114" tvg-id="BoxHits(src01).uk" tvg-name="Box Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="IPTV",Box Hits
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 tvg-chno="115" tvg-id="BTSport1.uk" tvg-name="BT Sport 1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82450_dark_360w_270h.png" group-title="IPTV",BT Sport 1
 http://155.248.235.34:8080/memfs/ea506e6c-2013-4510-95d9-983d139f8ce0.m3u8
 #EXTINF:-1 tvg-chno="116" tvg-id="BTSport2.uk" tvg-name="BT Sport 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82451_dark_360w_270h.png" group-title="IPTV",BT Sport 2
@@ -41,8 +37,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 http://155.248.235.34:8080/memfs/8b012ef2-5744-40bb-94df-e6db2391b8f6.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="CTVNewsChannel(English).ca" tvg-name="CTV News" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s76921_dark_360w_270h.png" group-title="IPTV",CTV News
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-#EXTINF:-1 tvg-chno="122" tvg-id="(no tvg-id)" tvg-name="DesheBideshe TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/deshebideshe-1.jpg?x50681" group-title="IPTV",DesheBideshe TV
-http://155.248.235.34:8080/memfs/11d29ada-9926-4084-8c84-cc3ef3787754.m3u8
 #EXTINF:-1 tvg-chno="123" tvg-id="DW(English).ca" tvg-name="DW English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s79318_dark_360w_270h.png" group-title="IPTV",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="IPTV",ESPN
@@ -53,16 +47,8 @@ http://155.248.235.34:8080/memfs/31bcce44-c069-4164-9ae7-251a4b592809.m3u8
 http://155.248.235.34:8080/memfs/6e61c4c4-5886-4be2-bcaf-2b3e32d043a8.m3u8
 #EXTINF:-1 tvg-chno="127" tvg-id="(no tvg-id)" tvg-name="Gaan Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Gaan_Bangla_Logo_2021.jpg/800px-Gaan_Bangla_Logo_2021.jpg" group-title="IPTV",Gaan Bangla
 http://155.248.235.34:8080/memfs/41710b98-f976-40a8-afb8-bc7b63dbcacc.m3u8
-#EXTINF:-1 tvg-chno="128" tvg-id="GustoTV.uk" tvg-name="Gusto" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s115097_dark_360w_270h.png" group-title="IPTV",Gusto
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-chno="129" tvg-id="(no tvg-id)" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/1200px-Independent_Television_Logo.svg.png" group-title="IPTV",Independent TV
-http://155.248.235.34:8080/memfs/a2d57f96-12c1-4cb7-8f1f-428256d7c89e.m3u8
-#EXTINF:-1 tvg-chno="130" tvg-id="IQRABANGLA.uk" tvg-name="Iqra Bangla" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117245_dark_360w_270h.png" group-title="IPTV",Iqra Bangla
-https://cdn5.iqsat.net/iqb/f0c1abab1c44d5f01879991c979a6821.sdp/playlist.m3u8
 #EXTINF:-1 tvg-chno="131" tvg-id="(no tvg-id)" tvg-name="Jamuna TV" tvg-logo="https://thedailynewnation.com/library/1396623976_0.jpg" group-title="IPTV",Jamuna TV
 http://155.248.235.34:8080/memfs/6a5609a5-79a9-4cf2-93a7-7bd63cb83000.m3u8
-#EXTINF:-1 tvg-chno="132" tvg-id="(no tvg-id)" tvg-name="JonmoBhumi TV" tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png" group-title="IPTV",JonmoBhumi TV
-http://155.248.235.34:8080/memfs/d8aa1ea8-660b-4ae3-baa8-f83e97611d88.m3u8
 #EXTINF:-1 tvg-chno="133" tvg-id="(no tvg-id)" tvg-name="Kadak Hits" tvg-logo="https://iili.io/HxjXWlt.jpg" group-title="IPTV",Kadak Hits
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
 #EXTINF:-1 tvg-chno="134" tvg-id="LeCanalNouvellesTVA(French).ca" tvg-name="LCN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67231_dark_360w_270h.png" group-title="IPTV",LCN
@@ -79,8 +65,6 @@ https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 https://rumble-foxo.cdn.rumble.cloud/live/hr6yv36f/slot-30/ngrp:srak-wx8r_all/playlist.m3u8
 #EXTINF:-1 tvg-chno="140" tvg-id="(no tvg-id)" tvg-name="RTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="IPTV",RTV
 http://155.248.235.34:8080/memfs/d4017410-6358-4c19-b505-96a162ae8ad9.m3u8
-#EXTINF:-1 tvg-chno="141" tvg-id="(no tvg-id)" tvg-name="Somoy News TV" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2021/08/unnamed-2-1.png" group-title="IPTV",Somoy News TV
-http://155.248.235.34:8080/memfs/2258d7a9-eb5f-412c-8cc2-cf8826ec6795.m3u8
 #EXTINF:-1 tvg-chno="142" tvg-id="(no tvg-id)" tvg-name="TD Ameritrade Network" tvg-logo="https://www.miningstockeducation.com/wp-content/uploads/2020/11/TD_Ameritrade.svg_.png" group-title="IPTV",TD Ameritrade Network
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="143" tvg-id="TNT.us" tvg-name="TNT East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="IPTV",TNT East
