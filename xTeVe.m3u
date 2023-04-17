@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9gdvqb5qjrqyxr5"
 #EXTINF:-1 tvg-id="WJLADT.us" tvg-name="ABC 7 Washington DC (WJLA)" tvg-logo="" group-title="IPTV",ABC 7 Washington DC (WJLA)
-https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+http://155.248.235.34:8080/memfs/4adf0df5-74af-499e-b30e-14344f50f580.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC East" tvg-logo="" group-title="IPTV",AMC East
-https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+http://155.248.235.34:8080/memfs/f11e7551-450a-4b70-b603-7c78419e17ee.m3u8
 #EXTINF:-1 tvg-chno="102" tvg-id="AlJazeeraEnglish(English).ca" tvg-name="Al Jazeera EN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s55559_dark_360w_270h.png" group-title="IPTV",Al Jazeera EN
 https://ythls.onrender.com/channel/UCNye-wNBqNL5ZzHSJj3l8Bg.m3u8
 #EXTINF:-1 tvg-chno="103" tvg-id="(no tvg-id)" tvg-name="Artist Aloud" tvg-logo="https://www.artistaloud.com/images/logo.png" group-title="IPTV",Artist Aloud
