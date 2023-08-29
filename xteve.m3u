@@ -1,0 +1,31 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/4z2xnj1kpecd4gw4yv15"
+#EXTINF:-1 tvg-id="BeINSPORTS1.fr" tvg-name="beIN Sports 1" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F216%2Fbein-sports-french-1.png" group-title="SPORTS",beIN Sports 1
+http://155.248.235.34:8080/memfs/97fb5f2c-4e35-4990-b00f-1ea2ac386e81.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTS2.fr" tvg-name="beIN Sports 2" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F211%2Fbein-sports-french-1.png" group-title="SPORTS",beIN Sports 2
+http://155.248.235.34:8080/memfs/dddf2bb5-1887-4078-893f-2e793d7a69c8.m3u8
+#EXTINF:-1 tvg-id="BeINSPORTS3.fr" tvg-name="beIN Sports 3" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F362%2Fbein-sports-french-1.png" group-title="SPORTS",beIN Sports 3
+http://155.248.235.34:8080/memfs/14f961e1-ac29-469d-af39-85270c2fe493.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://www.freepnglogos.com/uploads/espn-png-logo/pn-white-png-logo-18.png" group-title="SPORTS",ESPN
+http://155.248.235.34:8080/memfs/4fcd7112-b9e2-4851-8f24-b538af45f75c.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN2" tvg-logo="https://static.vidgo.com/web/wp-content/themes/Vidgo/images/ESPN2-Network-Logo-BW-Negative-1.png" group-title="SPORTS",ESPN2
+http://155.248.235.34:8080/memfs/31bcce44-c069-4164-9ae7-251a4b592809.m3u8
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" group-title="SPORTS",FS1
+http://155.248.235.34:8080/memfs/6e61c4c4-5886-4be2-bcaf-2b3e32d043a8.m3u8
+#EXTINF:-1 tvg-id="SkySportsArena.uk" tvg-name="Sky Sports Arena" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104324_dark_360w_270h.png" group-title="SPORTS",Sky Sports Arena
+http://155.248.235.34:8080/memfs/04fa34bb-3c44-4bf5-b791-fe834c1b8c23.m3u8
+#EXTINF:-1 tvg-id="SkySportsCricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19036_dark_360w_270h.png" group-title="SPORTS",Sky Sports Cricket
+http://155.248.235.34:8080/memfs/9cddd132-4555-4f76-86c2-eb8b7625930f.m3u8
+#EXTINF:-1 tvg-id="SkySportsFootball.uk" tvg-name="Sky Sports Football" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104327_dark_360w_270h.png" group-title="SPORTS",Sky Sports Football
+http://155.248.235.34:8080/memfs/5f79be68-ac3e-4c79-adff-e5b79c1eec21.m3u8
+#EXTINF:-1 tvg-id="SkySportsMainEvent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://footballontv.com/media/channels/logos/Sky%20Sports%20Main%20Event@3x.png" group-title="SPORTS",Sky Sports Main Event
+http://155.248.235.34:8080/memfs/c48f39f4-7b18-41de-8527-dc905a4f3d9a.m3u8
+#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports PL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest?cb=20170717173017" group-title="SPORTS",Sky Sports PL
+http://155.248.235.34:8080/memfs/f398baea-39f8-49bc-bbe9-7e20c0daa828.m3u8
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 1
+http://155.248.235.34:8080/memfs/ea506e6c-2013-4510-95d9-983d139f8ce0.m3u8
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 2
+http://155.248.235.34:8080/memfs/c36d56c4-36c9-4d8a-9a2a-728f21721d1f.m3u8
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 3
+http://155.248.235.34:8080/memfs/37203c43-fd09-48d3-ad5a-550453fd3be3.m3u8
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="SPORTS",TNT Sports 4
+http://155.248.235.34:8080/memfs/eda2611f-9801-47e2-83fa-e7ea5a6884eb.m3u8
