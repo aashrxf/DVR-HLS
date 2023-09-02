@@ -21,11 +21,11 @@ http://155.248.235.34:8080/memfs/5f79be68-ac3e-4c79-adff-e5b79c1eec21.m3u8
 http://155.248.235.34:8080/memfs/c48f39f4-7b18-41de-8527-dc905a4f3d9a.m3u8
 #EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-name="Sky Sports PL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/Sky_Sports_Premier_League.svg/revision/latest?cb=20170717173017" group-title="SPORTS",Sky Sports PL
 http://155.248.235.34:8080/memfs/f398baea-39f8-49bc-bbe9-7e20c0daa828.m3u8
-#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_1_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 1
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="SPORTS",TNT Sports 1
 http://155.248.235.34:8080/memfs/ea506e6c-2013-4510-95d9-983d139f8ce0.m3u8
-#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_2_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 2
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="SPORTS",TNT Sports 2
 http://155.248.235.34:8080/memfs/c36d56c4-36c9-4d8a-9a2a-728f21721d1f.m3u8
-#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_3_2018_WHITE_RGB.png" group-title="SPORTS",TNT Sports 3
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="SPORTS",TNT Sports 3
 http://155.248.235.34:8080/memfs/37203c43-fd09-48d3-ad5a-550453fd3be3.m3u8
-#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/channel-logo/full-logo/2022/BTSPORT_4_2022_WHITE_RGB.png" group-title="SPORTS",TNT Sports 4
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="SPORTS",TNT Sports 4
 http://155.248.235.34:8080/memfs/eda2611f-9801-47e2-83fa-e7ea5a6884eb.m3u8
